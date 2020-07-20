@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerApp", "Mick-network\ServerApp.csproj", "{1688D121-E01C-40B1-82A5-BCED255B989D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientApp", "ClientApp\ClientApp.csproj", "{29F6766C-40A6-4FA2-9ABC-C51D6DF41C93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1688D121-E01C-40B1-82A5-BCED255B989D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1688D121-E01C-40B1-82A5-BCED255B989D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1688D121-E01C-40B1-82A5-BCED255B989D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1688D121-E01C-40B1-82A5-BCED255B989D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29F6766C-40A6-4FA2-9ABC-C51D6DF41C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F6766C-40A6-4FA2-9ABC-C51D6DF41C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F6766C-40A6-4FA2-9ABC-C51D6DF41C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F6766C-40A6-4FA2-9ABC-C51D6DF41C93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F06001AD-2ACA-48BA-8732-1A81ECEDD672}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\mick-network\Mick-network\Mick-network\bin\Debug\Mick-network.exe.config
+D:\mick-network\Mick-network\Mick-network\bin\Debug\Mick-network.exe
+D:\mick-network\Mick-network\Mick-network\bin\Debug\Mick-network.pdb
+D:\mick-network\Mick-network\Mick-network\obj\Debug\Mick-network.csprojAssemblyReference.cache
+D:\mick-network\Mick-network\Mick-network\obj\Debug\Mick_network.Server.resources
+D:\mick-network\Mick-network\Mick-network\obj\Debug\Mick_network.Properties.Resources.resources
+D:\mick-network\Mick-network\Mick-network\obj\Debug\Mick-network.csproj.GenerateResource.cache
+D:\mick-network\Mick-network\Mick-network\obj\Debug\Mick-network.csproj.CoreCompileInputs.cache
+D:\mick-network\Mick-network\Mick-network\obj\Debug\Mick-network.exe
+D:\mick-network\Mick-network\Mick-network\obj\Debug\Mick-network.pdb

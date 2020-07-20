@@ -1,0 +1,10 @@
+D:\mick-network\Mick-network\ClientApp\obj\Debug\ClientApp.Client.resources
+D:\mick-network\Mick-network\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+D:\mick-network\Mick-network\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+D:\mick-network\Mick-network\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+D:\mick-network\Mick-network\ClientApp\bin\Debug\ClientApp.exe.config
+D:\mick-network\Mick-network\ClientApp\bin\Debug\ClientApp.exe
+D:\mick-network\Mick-network\ClientApp\bin\Debug\ClientApp.pdb
+D:\mick-network\Mick-network\ClientApp\obj\Debug\ClientApp.exe
+D:\mick-network\Mick-network\ClientApp\obj\Debug\ClientApp.pdb
+D:\mick-network\Mick-network\ClientApp\obj\Debug\ClientApp.csprojAssemblyReference.cache
